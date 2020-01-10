@@ -1,5 +1,7 @@
 # react-redux-tutorial : Basic React Redux Implementation
 
+![React state with Redux](http://onsen.io.s3-website-us-east-1.amazonaws.com/blog/content/images/2016/Jun/react_redux.png)
+
 # The Basic Redux Lifecycle
 Internally, redux only works with synchronous data flow and doesn’t come with many “moving parts” or magic methods like some other solutions.
 
